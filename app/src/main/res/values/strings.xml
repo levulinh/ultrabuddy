@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ultra Buddy</string>
+
+    <string name="text_mandevices">From Mandevices</string>
+    <string name="text_talk_to_me">Talk to me</string>
+    <string name="text_test_snackbar">I am a snackbar!</string>
+
+    <string name="item_about">About</string>
+</resources>
